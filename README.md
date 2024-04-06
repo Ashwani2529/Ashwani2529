@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨🏻‍💻 About Me:
 Hello! I'm Ashwani Kumar Singh, 21 Years old, currently pursuing B.Tech in Computer Science and Engineering at Amity University Lucknow. I'm a passionate Full Stack Developer with over 2+ years' of experience in designing and developing scalable web applications. I'm proficient in JavaScript, React.js, Node.js, mySQL, and I enjoy creating responsive UI/UX interfaces and optimizing databases like Firebase and MongoDB. I take pride in my problem-solving and collaboration abilities. Always eager to learn and keep up with the latest technologies, I am committed to delivering high-quality code. I also have knowledge of Android development using Kotlin in Android Studio, and I explore different frameworks, applications, and packages in Kali Linux in my free time. I'm excited to contribute to innovative projects and drive digital innovation.
 
 ## 🌐 Socials:

@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/ashwani2529">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Ashwani%20Kumar%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20%26%20Data%20Engineer&descAlignY=58&descAlign=50" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Ashwani%20Kumar%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20Cloud%20%26%20Data%20Engineer&descAlignY=58&descAlign=50&v=2" alt="header"/>
 </a>
 
 <!-- ─────────────────────────  TYPING INTRO  ───────────────────────── -->
@@ -209,13 +209,13 @@ const ashwani = {
 ## 📜 Certifications
 
 <p align="center">
-<img src="https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Engineer" />&nbsp;<img src="https://img.shields.io/badge/Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Data Engineer" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/D03EF2A227CA2500?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Engineer" /></a>&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/868CDE10754B995F?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/Fabric%20Data%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Data Engineer" /></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Fabric%20Analytics%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Analytics Engineer" />&nbsp;<img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/74C568C42DDA22EE?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/Fabric%20Analytics%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fabric Analytics Engineer" /></a>&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/27CAD4392DE5E60B?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" /></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />&nbsp;<img src="https://img.shields.io/badge/GitHub%20Administration-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Administration" />&nbsp;<img src="https://img.shields.io/badge/GitHub%20Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/3751AB93B2D26F1F?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/B5704A17D842DDBB?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/GitHub%20Administration-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Administration" /></a>&nbsp;<img src="https://img.shields.io/badge/GitHub%20Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
 </p>
 
 <br/>

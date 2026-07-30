@@ -66,7 +66,7 @@ const ashwani = {
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <a href="https://linkedin.com/in/ashwani-singh-5a7072223"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Ashwani14463081"><img src="https://img.shields.io/badge/X%20(Twitter)-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
   <a href="https://stackoverflow.com/users/23225589"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
@@ -82,7 +82,7 @@ const ashwani = {
 ## 🛠️ Tech Stack & Tools
 
 <h3 align="center">💻 Languages</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -94,7 +94,7 @@ const ashwani = {
 </p>
 
 <h3 align="center">⚛️ Frontend</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
@@ -107,7 +107,7 @@ const ashwani = {
 </p>
 
 <h3 align="center">🔧 Backend</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
@@ -116,14 +116,14 @@ const ashwani = {
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
 </p>
 
 <h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -133,7 +133,7 @@ const ashwani = {
 </p>
 
 <h3 align="center">🧰 Tools & Others</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM" />
@@ -143,7 +143,7 @@ const ashwani = {
 </p>
 
 <h3 align="center">📊 Data & Design</h3>
-<p align="center">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:10px; margin:12px 0; padding:4px;">
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />

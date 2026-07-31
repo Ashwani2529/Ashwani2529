@@ -46,7 +46,7 @@ const ashwani = {
 };
 ```
 
-- 🔭 &nbsp;Currently a **Programmer Analyst Trainee @ Cognizant**, building **cloud-native data pipelines** on Azure
+- 🔭 &nbsp;Currently a **Programmer Analyst @ Cognizant**, building **cloud-native data pipelines** on Azure
 - 🚀 &nbsp;I've built **scalable production systems serving 29K+ users** with REST APIs, microservices & real-time WebRTC
 - 🏗️ &nbsp;I architect **fault-tolerant, event-driven ETL pipelines** (ADF · Databricks · Synapse)
 - 🧠 &nbsp;Strong in **System Design, Distributed Systems & Data Structures + Algorithms**

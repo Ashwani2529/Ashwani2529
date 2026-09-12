@@ -62,7 +62,7 @@ const ashwani = {
 ## 📌 Quick Highlights
 
 <p align="center">
-<img src="https://img.shields.io/badge/29K%2B-Users%20Served-8E2DE2?style=for-the-badge" alt="Users" />&nbsp;<img src="https://img.shields.io/badge/586%2B-LeetCode%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />&nbsp;<img src="https://img.shields.io/badge/Top%208%25-Globally-4A00E0?style=for-the-badge" alt="Top 8%" />&nbsp;<img src="https://img.shields.io/badge/7x-Microsoft%20%26%20GitHub%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Certifications" />&nbsp;<img src="https://img.shields.io/badge/30%2B-Interns%20Led-00C9FF?style=for-the-badge" alt="Leadership" />
+<img src="https://img.shields.io/badge/29K%2B-Users%20Served-8E2DE2?style=for-the-badge" alt="Users" />&nbsp;<img src="https://img.shields.io/badge/586%2B-LeetCode%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />&nbsp;<img src="https://img.shields.io/badge/Top%208%25-Globally-4A00E0?style=for-the-badge" alt="Top 8%" />&nbsp;<img src="https://img.shields.io/badge/9x-Microsoft%2C%20GitHub%20%26%20Claude%20Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Certifications" />&nbsp;<img src="https://img.shields.io/badge/30%2B-Interns%20Led-00C9FF?style=for-the-badge" alt="Leadership" />
 </p>
 
 <br/>
@@ -216,6 +216,9 @@ const ashwani = {
 </p>
 <p align="center">
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/3751AB93B2D26F1F?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a>&nbsp;<a href="https://learn.microsoft.com/api/credentials/share/en-us/ashwani-singh-2749/B5704A17D842DDBB?sharingId=4D968634BA7EA866"><img src="https://img.shields.io/badge/GitHub%20Administration-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Administration" /></a>&nbsp;<img src="https://img.shields.io/badge/GitHub%20Foundations-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Foundations" />
+</p>
+<p align="center">
+<a href="https://www.credly.com/badges/5e250993-b376-400e-b074-d1621fad4524/public_url"><img src="https://img.shields.io/badge/Claude%20Certified%20Developer%20%E2%80%94%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Developer - Foundations" /></a>&nbsp;<a href="https://www.credly.com/badges/e088a086-8b7e-4035-8dac-f4780720071f/public_url"><img src="https://img.shields.io/badge/Claude%20Certified%20Associate%20%E2%80%94%20Foundations-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Certified Associate - Foundations" /></a>
 </p>
 
 <br/>
